@@ -1,0 +1,178 @@
+/* Footer fixieren */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+    color: #fff;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #1c1c1c;
+    text-align: center;
+}
+/* Header Navigation */
+header nav ul {
+    list-style: none;
+    background-color: rgb(75, 0, 75);
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+header nav ul li a:hover,
+header nav ul li a.active {
+    background-color: darkorchid;
+    color: #333;
+}
+
+/* Hauptinhalt */
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(75, 0, 75);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Patch Notes Design */
+#patchnotes-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+#patchnotes-list li {
+    color: #fff;
+    list-style: none;
+    background: rgba(75, 0, 75, 0.651);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 20px);
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#patchnotes-list li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+#patchnotes-list li h3 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+#patchnotes-list li ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+/* Devlog Design */
+#devlog table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: black;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#devlog table th,
+#devlog table td {
+    padding: 10px 15px;
+    text-align: left;
+    border: 2px solid rgb(75, 0, 75);
+}
+
+#devlog table th {
+    background: darkorchid;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+#devlog table tr:nth-child(even) {
+    background: rgb(53, 0, 53);
+}
+#devlog table td:nth-child(1),
+#devlog table td:nth-child(3) {
+    text-align: center; /* Datum und Autor zentrieren */
+}
+
+#devlog table tr:hover {
+    background: rgba(153, 50, 204, 0.432);
+}
+#login-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1c1c1c;
+    border: 1px solid rgb(75, 0, 75);
+    border-radius: 5px;
+}
+
+#login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#login-form input[type="text"],
+#login-form input[type="password"] {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#login-form button {
+    background-color: rgb(75, 0, 75);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#login-form button:hover {
+    background-color: rgb(95, 2, 95);
+}
