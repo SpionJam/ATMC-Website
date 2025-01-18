@@ -1,5 +1,17 @@
 [
     {
+      "date": "2025-01-18",
+      "logEntry": "Erstes Item erstellt (Amethyst Sword)",
+      "author": "SpionJam",
+      "modVersion": "0.0.2"
+    },
+    {
+      "date": "2025-01-18",
+      "logEntry": "Mod Struktur neu aufgesetzt von Version 1.21.4 auf 1.21",
+      "author": "SpionJam",
+      "modVersion": "0.0.1"
+    },
+    {
       "date": "2025-01-17",
       "logEntry": "ModItems Klasse erstellt mit Helper-Methode",
       "author": "SpionJam",
