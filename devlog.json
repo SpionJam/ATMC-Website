@@ -1,6 +1,18 @@
 [
     {
       "date": "2025-01-17",
+      "logEntry": "ModItems Klasse erstellt mit Helper-Methode",
+      "author": "SpionJam",
+      "modVersion": "0.0.2"
+    },
+    {
+      "date": "2025-01-17",
+      "logEntry": "Grundstruktur der Mod erstellt",
+      "author": "SpionJam",
+      "modVersion": "0.0.1"
+    },
+    {
+      "date": "2025-01-17",
       "logEntry": "Erstellt diverse Texturen",
       "author": "Vykos, Apocalypto_Torte, Jokestar, SpionJam",
       "modVersion": "0.0.1"
