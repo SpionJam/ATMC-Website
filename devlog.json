@@ -1,6 +1,12 @@
 [
     {
       "date": "2025-01-19",
+      "logEntry": "Amethyst Tools hinzugefügt",
+      "author": "SpionJam",
+      "modVersion": "0.0.5"
+    },
+    {
+      "date": "2025-01-19",
       "logEntry": "ModToolMaterials enum erstellt (mit AMETHYST). ModTags zwei Tag hinzugefügt (NEEDS_AMETHYST_TOOL, INCORRECT_FOR_AMETHYST_TOOL). Ametyhst Sword Werte hinzugefügt",
       "author": "SpionJam",
       "modVersion": "0.0.4"
