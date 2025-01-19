@@ -1,7 +1,13 @@
 [
     {
       "date": "2025-01-19",
-      "logEntry": "ModItemGroups erstellt (ATMC Mod Items)",
+      "logEntry": "ModToolMaterials enum erstellt (mit AMETHYST). ModTags zwei Tag hinzugefügt (NEEDS_AMETHYST_TOOL, INCORRECT_FOR_AMETHYST_TOOL). Ametyhst Sword Werte hinzugefügt",
+      "author": "SpionJam",
+      "modVersion": "0.0.4"
+    },
+    {
+      "date": "2025-01-19",
+      "logEntry": "ModItemGroups class erstellt (ATMC Mod Items). ModTags class erstellt",
       "author": "SpionJam",
       "modVersion": "0.0.3"
     },
