@@ -1,5 +1,11 @@
 [
     {
+      "date": "2025-01-19",
+      "logEntry": "ModItemGroups erstellt (ATMC Mod Items)",
+      "author": "SpionJam",
+      "modVersion": "0.0.3"
+    },
+    {
       "date": "2025-01-18",
       "logEntry": "Erstes Item erstellt (Amethyst Sword)",
       "author": "SpionJam",
