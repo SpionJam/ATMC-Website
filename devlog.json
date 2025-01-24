@@ -1,31 +1,133 @@
 [
     {
+      "date": "2025-01-24",
+      "logEntry": "added names for amethyst armoritems.",
+      "author": "SpionJam",
+      "modVersion": "0.2.2"
+    },
+    {
+      "date": "2025-01-24",
+      "logEntry": "changed the recipecategory for the amethyst tools from combat to tools. added crafting recipes for amethyst armor.",
+      "author": "SpionJam",
+      "modVersion": "0.2.1"
+    },
+    {
+      "date": "2025-01-24",
+      "logEntry": "added emerald armor. changed stats for amethyst and pure_amethyst_netherite armor. added remaining crafting recipes for amethyst tools. added names for sulfur_dust and pitch_coal.",
+      "author": "SpionJam",
+      "modVersion": "0.2.0"
+    },
+    {
+      "date": "2025-01-24",
+      "logEntry": "added sulfur_dust and pitch_coal.",
+      "author": "SpionJam",
+      "modVersion": "0.1.9"
+    },
+    {
+      "date": "2025-01-24",
+      "logEntry": "added armor model for pure_amethyst_netherite. changed stats for witherite and yamato.",
+      "author": "SpionJam",
+      "modVersion": "0.1.8"
+    },
+    {
+      "date": "2025-01-24",
+      "logEntry": "added pure_amethyst_netherite tools and armoritems. added ModItemTagProvider to ATMCModDataGenerator and fixed problem with de ModItemTagProvider. the problem was an unnecessary parameter in the ModItemTagProvider constructor",
+      "author": "SpionJam",
+      "modVersion": "0.1.7"
+    },
+    {
+      "date": "2025-01-22",
+      "logEntry": "added dategen for Models, BlockTags, ItemTags, Recipes and LottTables.",
+      "author": "SpionJam",
+      "modVersion": "0.1.6"
+    },
+     {
+      "date": "2025-01-22",
+      "logEntry": "added new class: ModArmorMaterials. added ArmorMaterial: amethyst. added new armoritems: amethyst.",
+      "author": "SpionJam",
+      "modVersion": "0.1.5"
+    },
+    {
+      "date": "2025-01-22",
+      "logEntry": "added yamato_main and crafting recipes for yamato",
+      "author": "SpionJam",
+      "modVersion": "0.1.4"
+    },
+     {
+      "date": "2025-01-22",
+      "logEntry": "added witherite_sword and yamato + material.",
+      "author": "SpionJam",
+      "modVersion": "0.1.3"
+    },
+     {
+      "date": "2025-01-22",
+      "logEntry": "removed amethyst_sword from Combat itemgroup.",
+      "author": "SpionJam",
+      "modVersion": "0.1.2"
+    },
+    {
+      "date": "2025-01-22",
+      "logEntry": "added new block: pitch_coal_ore.",
+      "author": "SpionJam",
+      "modVersion": "0.1.1"
+    },
+     {
+      "date": "2025-01-22",
+      "logEntry": "added crafting recipes for emerald and amethyst tools.",
+      "author": "SpionJam",
+      "modVersion": "0.1.0"
+    },
+    {
+      "date": "2025-01-22",
+      "logEntry": "Added pure_amethyst material + tools. added emerald material + tool. added tags for pure_amethyst and emerald.",
+      "author": "SpionJam",
+      "modVersion": "0.0.9"
+    },
+    {
+      "date": "2025-01-22",
+      "logEntry": "added sulfur_ore",
+      "author": "SpionJam",
+      "modVersion": "0.0.8"
+    },
+    {
+      "date": "2025-01-20",
+      "logEntry": "Added new Item: pure_amethyst_shard. added item to itemgroup: atmc_mod_items. changed icon from itemgroup atmc_mod_items (pure_amethyst_shard).",
+      "author": "SpionJam",
+      "modVersion": "0.0.7"
+    },
+    {
+      "date": "2025-01-20",
+      "logEntry": "Added new block = pure_amethyst_ore. added new itemgroup = atmc_mod_blocks.",
+      "author": "SpionJam",
+      "modVersion": "0.0.6"
+    },
+    {
       "date": "2025-01-19",
-      "logEntry": "Amethyst Tools hinzugefügt",
+      "logEntry": "Added Amethyst Tools",
       "author": "SpionJam",
       "modVersion": "0.0.5"
     },
     {
       "date": "2025-01-19",
-      "logEntry": "ModToolMaterials enum erstellt (mit AMETHYST). ModTags zwei Tag hinzugefügt (NEEDS_AMETHYST_TOOL, INCORRECT_FOR_AMETHYST_TOOL). Ametyhst Sword Werte hinzugefügt",
+      "logEntry": "Created ModToolMaterials enum. Values added to the amethyst_sword. created AMETHYST material. Created two tags: NEEDS_AMETHYST_TOOL, INCORRECT_FOR_AMETHYST_TOOL.",
       "author": "SpionJam",
       "modVersion": "0.0.4"
     },
     {
       "date": "2025-01-19",
-      "logEntry": "ModItemGroups class erstellt (ATMC Mod Items). ModTags class erstellt",
+      "logEntry": "Created classes: ModBlocks (With two helper-methods), ModTags.",
       "author": "SpionJam",
       "modVersion": "0.0.3"
     },
     {
       "date": "2025-01-18",
-      "logEntry": "Erstes Item erstellt (Amethyst Sword)",
+      "logEntry": "Created ATMCModClient Class, ModItems Class (with Helper-Method and first Item), en_us.json, amethyst_sword.json. Updated fabric.mod.json",
       "author": "SpionJam",
       "modVersion": "0.0.2"
     },
     {
       "date": "2025-01-18",
-      "logEntry": "Mod Struktur neu aufgesetzt von Version 1.21.4 auf 1.21",
+      "logEntry": "Mod structure reworked from version 1.21.4 to 1.21 + created ModItemsGroup class + createt first ItemGroup (atmc_mod_items)",
       "author": "SpionJam",
       "modVersion": "0.0.1"
     },
@@ -37,19 +139,19 @@
     },
     {
       "date": "2025-01-17",
-      "logEntry": "Grundstruktur der Mod erstellt",
+      "logEntry": "Basic structure of the mod created",
       "author": "SpionJam",
       "modVersion": "0.0.1"
     },
     {
       "date": "2025-01-17",
-      "logEntry": "Erstellt diverse Texturen",
+      "logEntry": "Created various textures",
       "author": "Vykos, Apocalypto_Torte, Jokestar, SpionJam",
       "modVersion": "0.0.0"
     },
     {
         "date": "2025-01-17",
-        "logEntry": "Erstellt Website zur Mod",
+        "logEntry": "Created a website for the mod",
         "author": "SpionJam",
         "modVersion": "0.0.0"
       }
