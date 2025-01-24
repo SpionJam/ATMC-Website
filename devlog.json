@@ -1,6 +1,12 @@
 [
     {
       "date": "2025-01-24",
+      "logEntry": "created new class: ModFoodComponents. created new fooditem: pure_amethyst_apple (with statuseffects). added amethyst and emerald armor to atmc_mod_items itemgroup. added sabers for all materials from iron onwards. created loottable for sulfur_ore and pitch_coal_ore. added pitch_coal to FuelRegistry.",
+      "author": "SpionJam",
+      "modVersion": "0.2.3"
+    },
+    {
+      "date": "2025-01-24",
       "logEntry": "added names for amethyst armoritems.",
       "author": "SpionJam",
       "modVersion": "0.2.2"
