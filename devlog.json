@@ -1,5 +1,125 @@
 [
     {
+      "date": "2025-03-07",
+      "logEntry": "loaded more json files.",
+      "author": "SpionJam",
+      "modVersion": "0.4.4"
+    },
+    {
+      "date": "2025-03-04",
+      "logEntry": "changed stats from boss weapons.",
+      "author": "SpionJam",
+      "modVersion": "0.4.3"
+    },
+    {
+      "date": "2025-02-25",
+      "logEntry": "changed stats from boss weapons.",
+      "author": "SpionJam",
+      "modVersion": "0.4.2"
+    },
+    {
+      "date": "2025-02-21",
+      "logEntry": "changed one advancement from task to challenge. added pure amethyst netherite block. renamed voidening_death_scythe to deaths_darkest_scythe.",
+      "author": "SpionJam",
+      "modVersion": "0.4.1"
+    },
+    {
+      "date": "2025-02-21",
+      "logEntry": "added more advancements.",
+      "author": "SpionJam",
+      "modVersion": "0.4.0"
+    },
+    {
+      "date": "2025-02-18",
+      "logEntry": "added advancements.",
+      "author": "SpionJam",
+      "modVersion": "0.3.9"
+    },
+    {
+      "date": "2025-02-18",
+      "logEntry": "added a bit of worldgen.",
+      "author": "SpionJam",
+      "modVersion": "0.3.8"
+    },
+    {
+      "date": "2025-02-18",
+      "logEntry": "added darkforge_battlehammer. and justifier_main. (3d model)",
+      "author": "SpionJam",
+      "modVersion": "0.3.7"
+    },
+    {
+      "date": "2025-02-11",
+      "logEntry": "added 3d model for voidening_death_scythe. added new 3d item cursed_sword.",
+      "author": "SpionJam",
+      "modVersion": "0.3.6"
+    },
+    {
+      "date": "2025-02-11",
+      "logEntry": "added 3d model for crimson_command_sword.",
+      "author": "SpionJam",
+      "modVersion": "0.3.5"
+    },
+    {
+      "date": "2025-02-10",
+      "logEntry": "added 3d model for iron_saber.",
+      "author": "SpionJam",
+      "modVersion": "0.3.4"
+    },
+     {
+      "date": "2025-02-10",
+      "logEntry": "added custom model item for dark_steel_claymore.",
+      "author": "SpionJam",
+      "modVersion": "0.3.3"
+    },
+    {
+      "date": "2025-01-31",
+      "logEntry": "added quarts weapons, tools and armor. created new itemgroup: boss_weapons.",
+      "author": "SpionJam",
+      "modVersion": "0.3.2"
+    },
+    {
+      "date": "2025-01-31",
+      "logEntry": "implemented new boss weapons, pure_amethyst armor. added new recipes for chainmail armor, oxidized_copper_ingot, oxidized_copper.",
+      "author": "SpionJam",
+      "modVersion": "0.3.1"
+    },
+    {
+      "date": "2025-01-28",
+      "logEntry": "added pitch_coal_block, copper and oxidized copper weapons, tools and armor. renamed yamato to justifier. created new blockdrop",
+      "author": "SpionJam",
+      "modVersion": "0.3.0"
+    },
+    {
+      "date": "2025-01-26",
+      "logEntry": "implemented end_glowstone & dust + end-, forest-, ocean- & nether_essence & ingots. created crafting recipes for end_glowstone & end_glowstone_dust.",
+      "author": "SpionJam",
+      "modVersion": "0.2.9"
+    },
+    {
+      "date": "2025-01-26",
+      "logEntry": "added edible pure_amethyst_carrot. implemented new weapons such as daggers and battleaxes for iron an beyond.",
+      "author": "SpionJam",
+      "modVersion": "0.2.8"
+    },
+    {
+      "date": "2025-01-26",
+      "logEntry": "added pure_amethyst_gem. created loottable-method for pure_amethyst_ore. changed name from smooth- pure_amethyst_block.",
+      "author": "SpionJam",
+      "modVersion": "0.2.7"
+    },
+    {
+      "date": "2025-01-26",
+      "logEntry": "implemented new blocks (pure_amethyst_block, budding..., smooth...) + json-files generated with datagen.",
+      "author": "SpionJam",
+      "modVersion": "0.2.6"
+    },
+     {
+      "date": "2025-01-24",
+      "logEntry": "fixed ModItemGroups.",
+      "author": "SpionJam",
+      "modVersion": "0.2.5"
+    },
+    {
       "date": "2025-01-24",
       "logEntry": "added tooltip for pure_amethyst_apple. fixed problem with amethyst-armor texture. problem was the name of the texture. created new class: ModArmorItem. added fullarmorset-bonus for pure_amethyst_netherite-armor (night_vision).",
       "author": "SpionJam",
