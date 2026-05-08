@@ -26,7 +26,7 @@ Die Website wurde erstellt, um:
 
 ## Projektstatus
 - Prototyp / Konzeptphase
-- Nicht mehr aktuell im Bezug auf die finale Mod
+- Nicht mehr aktuell im Bezug auf die aktuelle Version der Mod
 - Keine Weiterentwicklung im späteren Projektverlauf
 
 Die Website ist somit als früher Entwicklungsstand des Gesamtprojekts zu verstehen.
